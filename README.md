@@ -34,6 +34,7 @@ Aplikasi Pendaftaran Rute Penerbangan ialah suatu program sederhanaa yang berper
 
 ## Struktur Folder
 
+```bash
 📦maskapai
 ┣ 📂css
 ┃ ┗ 📜style.css
@@ -50,6 +51,7 @@ Aplikasi Pendaftaran Rute Penerbangan ialah suatu program sederhanaa yang berper
 ┣ 📜index.php
 ┣ 📜process.php
 ┗ 📜README.md
+```
 
 ## Preview Project
 
